@@ -1,0 +1,16 @@
+ADMIN ACCOUNT
+username : admin_reyes
+password : reyes2024
+
+MEMBER ACCOUNT
+username : sabuag_caballero
+password : caballero2024
+
+username : sabuag_galindo
+password : galindo2024
+
+username : sabuag_cedamon
+password : cedamon2024
+
+username : sabuag_aguhar
+password : aguhar2024
